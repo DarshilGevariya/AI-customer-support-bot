@@ -1,0 +1,9 @@
+﻿Requirements
+
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+scikit-learn
+requests
+
