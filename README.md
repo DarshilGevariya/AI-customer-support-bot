@@ -4,7 +4,7 @@
 This project simulates an AI-based customer support system that answers user queries using a FAQ knowledge base and escalates queries when required.  
 It maintains session-based conversation memory and integrates a Large Language Model (LLM) for generating responses when FAQs are insufficient. 
 
-The video **demo.mp4** provides an idea about the Project.
+The video **demo.mp4** provides an visual idea about the Project.
 
 ---
 
